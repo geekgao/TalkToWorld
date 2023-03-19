@@ -17,3 +17,7 @@
 ## 界面截图
 ![screenshot](https://github.com/geekgao/TalkToWorld/raw/main/screenshot.jpg)
 ![screenshot](https://github.com/geekgao/TalkToWorld/raw/main/screenshot2.jpg)
+
+## 备注
+本文中提到的控制类设备均可以网络中买到，可自行搜索。
+这个程序可能还有很多待完善的地方，例如：输入文字缓存、常用句收藏等功能特性
