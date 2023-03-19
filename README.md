@@ -4,8 +4,14 @@
 可以在大屏幕便携设备上（例如Pad）实现病人输入的同时让系统自动进行中文发音，实现了与外界的声音交流
 具体的方案，可以根据需要进行改进，例如配合具体的Pad电脑、鼠标轨迹球等外接设备，方便病人进行人机交互 
 
-![case](https://github.com/geekgao/TalkToWorld/raw/main/CASE.png)
+![case](https://github.com/geekgao/TalkToWorld/raw/main/CASE.png)  
+
+或者，使用成本更高的头戴式控制方案，例如GlassOuse：
+
+[![例如GlassOuse](https://glassouse.com/wp-content/uploads/2022/06/gallery-images-2-scaled.jpg)](https://glassouse.com/)
+
 ## 原理
+- 基于PyQt实现的系统界面，非常想容易可以实现跨平台移植
 - 利用系统自带的TTS朗读输入文字
 - 利用Google中文输入接口获取可能的输入词
 ## 界面截图
