@@ -8,7 +8,12 @@
 
 或者，使用成本更高的头戴式控制方案（病人肢体无法运动的情况下），例如GlassOuse：
 
-[![例如GlassOuse](https://glassouse.com/wp-content/uploads/2022/06/gallery-images-2-scaled.jpg)](https://glassouse.com/)
+[![例如GlassOuse](https://glassouse.com/wp-content/uploads/2022/06/gallery-images-2-scaled.jpg)](https://glassouse.com/)  
+
+GlassOuse是一款为残疾人设计的无线鼠标设备，其特殊的设计可以帮助身体上有一定障碍的人士更轻松地控制计算机。这款设备的外形类似于眼镜，可以佩戴在头部，并通过头部的移动来控制鼠标的移动和点击。  
+GlassOuse的设计旨在为那些无法使用传统鼠标和键盘的人士提供一种可靠的、易于使用的解决方案，例如由于肢体残疾或神经系统疾病而导致的运动障碍或瘫痪。它使用蓝牙技术连接到计算机或其他设备上，并具有可替换的电池，使用寿命长。**缺点：价格高，不过还不算离谱。**  
+
+
 
 ## 原理
 - 基于PyQt实现的系统界面，非常想容易可以实现跨平台移植
